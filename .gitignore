@@ -1,0 +1,5 @@
+captures/*
+__pycache__/*
+venv/*
+status.json
+images.db
